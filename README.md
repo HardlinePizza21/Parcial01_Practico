@@ -1,4 +1,4 @@
-#Samuel Madrid Ossa
+# Samuel Madrid Ossa
 
 ### Complejidad del algoritmo de verificación de palíndromos usando Recursividad:
 
