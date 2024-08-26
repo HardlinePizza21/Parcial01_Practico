@@ -1,3 +1,5 @@
+#Samuel Madrid Ossa
+
 ### Complejidad del algoritmo de verificación de palíndromos usando Recursividad:
 
 El algoritmo, en cada llamada, compara la primera posición con la última posición, lo que indica que la profundidad máxima de la recursión es n/2, donde n es la cantidad de datos. En el peor caso, el algoritmo realiza n/2 llamadas recursivas, así que la complejidad es **O(n)**.
