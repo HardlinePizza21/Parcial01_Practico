@@ -30,11 +30,6 @@ Estas son las instrucciones para construir el proyecto:
     ```bash
     py --version
     ```
-    o
-   
-    ```bash
-    pip --version
-    ```
 
 5. Navega desde tu sistema de archivos al repositorio que clonaste y ejecuta nuestro código con el siguiente comando:
 
