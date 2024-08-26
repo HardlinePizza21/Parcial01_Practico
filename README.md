@@ -44,3 +44,7 @@ Estas son las instrucciones para construir el proyecto:
     ```bash
     py ejercicio3.py
     ```
+
+
+
+Ortografia y entendimiento ayudado por Chat-GPT
